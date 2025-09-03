@@ -20,7 +20,7 @@ const personajes = [
   { nombre: "Pinocho", img: "imgs/Personajes/Pinocho.png", audio: "Grabaciones/Pinocho.aac", genero: "masculino"},
   { nombre: "SIMBA", img: "imgs/Personajes/SIMBA.png", audio: "Grabaciones/simba.aac", genero: "masculino"},
   { nombre: "STITCH", img: "imgs/Personajes/STITCH.png", audio: "Grabaciones/Stich.aac", genero: "masculino"},
-  { nombre: "Elsa", img: "imgs/Personajes/Elsa.png", audio: "Grabaciones/elsa.aac", genero: "femenino"}
+  { nombre: "Elsa", img: "imgs/Personajes/ELSA.png", audio: "Grabaciones/elsa.aac", genero: "femenino"}
 ];
 
 // Escenarios
@@ -552,3 +552,4 @@ document.addEventListener("click", (e) => {
     }
   }
 });
+
